@@ -1,9 +1,13 @@
-Virus total report : 
+Virus total report: 
 https://www.virustotal.com/gui/file/a89565a1a10363506df1248e6c8a2ae73d59446ffbf1819478eac449abfce08b
 https://www.virustotal.com/graph/api.uasecurity.org
 https://www.virustotal.com/gui/domain/uasecurity.org/relations
 
+TTP's:
 curl https://raw.githubusercontent.com/backend-url-provider/access/refs/heads/main/access.txt
 comp1.uasecurity.org:9508
 
+
+any.run report:
+https://app.any.run/tasks/06d7212c-f96f-4878-8cd3-484208cd7953
 
